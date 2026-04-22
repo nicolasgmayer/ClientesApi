@@ -60,9 +60,10 @@ ClientesAPI\bin\Debug\net8.0\data\clientes_store.json
 El archivo se crea automáticamente si no existe.
 
 
-Requisitos
+Requisitos:
+
 .NET 8 o superior
-
 Windows, Linux o macOS
-
 Permisos de lectura/escritura en la carpeta del ejecutable
+
+He dejado un archivo llamado "clientes_store.json" en el proyecto que viene desde la aplicación de escritorio ClientImport para realizar pruebas. Se debe colocar dentro de la carpeta "data" creada en el proyecto.
